@@ -1,0 +1,16 @@
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc5-MonthlyWage\Day4Emp-Uc5-MonthlyWage\bin\Debug\net5.0\Day4Emp-Uc5-MonthlyWage.exe
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc5-MonthlyWage\Day4Emp-Uc5-MonthlyWage\bin\Debug\net5.0\Day4Emp-Uc5-MonthlyWage.deps.json
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc5-MonthlyWage\Day4Emp-Uc5-MonthlyWage\bin\Debug\net5.0\Day4Emp-Uc5-MonthlyWage.runtimeconfig.json
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc5-MonthlyWage\Day4Emp-Uc5-MonthlyWage\bin\Debug\net5.0\Day4Emp-Uc5-MonthlyWage.runtimeconfig.dev.json
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc5-MonthlyWage\Day4Emp-Uc5-MonthlyWage\bin\Debug\net5.0\Day4Emp-Uc5-MonthlyWage.dll
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc5-MonthlyWage\Day4Emp-Uc5-MonthlyWage\bin\Debug\net5.0\Day4Emp-Uc5-MonthlyWage.pdb
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc5-MonthlyWage\Day4Emp-Uc5-MonthlyWage\obj\Debug\net5.0\Day4Emp-Uc5-MonthlyWage.csproj.AssemblyReference.cache
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc5-MonthlyWage\Day4Emp-Uc5-MonthlyWage\obj\Debug\net5.0\Day4Emp-Uc5-MonthlyWage.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc5-MonthlyWage\Day4Emp-Uc5-MonthlyWage\obj\Debug\net5.0\Day4Emp-Uc5-MonthlyWage.AssemblyInfoInputs.cache
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc5-MonthlyWage\Day4Emp-Uc5-MonthlyWage\obj\Debug\net5.0\Day4Emp-Uc5-MonthlyWage.AssemblyInfo.cs
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc5-MonthlyWage\Day4Emp-Uc5-MonthlyWage\obj\Debug\net5.0\Day4Emp-Uc5-MonthlyWage.csproj.CoreCompileInputs.cache
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc5-MonthlyWage\Day4Emp-Uc5-MonthlyWage\obj\Debug\net5.0\Day4Emp-Uc5-MonthlyWage.dll
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc5-MonthlyWage\Day4Emp-Uc5-MonthlyWage\obj\Debug\net5.0\refint\Day4Emp-Uc5-MonthlyWage.dll
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc5-MonthlyWage\Day4Emp-Uc5-MonthlyWage\obj\Debug\net5.0\Day4Emp-Uc5-MonthlyWage.pdb
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc5-MonthlyWage\Day4Emp-Uc5-MonthlyWage\obj\Debug\net5.0\Day4Emp-Uc5-MonthlyWage.genruntimeconfig.cache
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc5-MonthlyWage\Day4Emp-Uc5-MonthlyWage\obj\Debug\net5.0\ref\Day4Emp-Uc5-MonthlyWage.dll

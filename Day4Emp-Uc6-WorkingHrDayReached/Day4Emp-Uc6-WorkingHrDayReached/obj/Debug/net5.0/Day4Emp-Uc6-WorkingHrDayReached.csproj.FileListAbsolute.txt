@@ -1,0 +1,16 @@
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc6-WorkingHrDayReached\Day4Emp-Uc6-WorkingHrDayReached\bin\Debug\net5.0\Day4Emp-Uc6-WorkingHrDayReached.exe
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc6-WorkingHrDayReached\Day4Emp-Uc6-WorkingHrDayReached\bin\Debug\net5.0\Day4Emp-Uc6-WorkingHrDayReached.deps.json
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc6-WorkingHrDayReached\Day4Emp-Uc6-WorkingHrDayReached\bin\Debug\net5.0\Day4Emp-Uc6-WorkingHrDayReached.runtimeconfig.json
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc6-WorkingHrDayReached\Day4Emp-Uc6-WorkingHrDayReached\bin\Debug\net5.0\Day4Emp-Uc6-WorkingHrDayReached.runtimeconfig.dev.json
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc6-WorkingHrDayReached\Day4Emp-Uc6-WorkingHrDayReached\bin\Debug\net5.0\Day4Emp-Uc6-WorkingHrDayReached.dll
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc6-WorkingHrDayReached\Day4Emp-Uc6-WorkingHrDayReached\bin\Debug\net5.0\Day4Emp-Uc6-WorkingHrDayReached.pdb
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc6-WorkingHrDayReached\Day4Emp-Uc6-WorkingHrDayReached\obj\Debug\net5.0\Day4Emp-Uc6-WorkingHrDayReached.csproj.AssemblyReference.cache
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc6-WorkingHrDayReached\Day4Emp-Uc6-WorkingHrDayReached\obj\Debug\net5.0\Day4Emp-Uc6-WorkingHrDayReached.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc6-WorkingHrDayReached\Day4Emp-Uc6-WorkingHrDayReached\obj\Debug\net5.0\Day4Emp-Uc6-WorkingHrDayReached.AssemblyInfoInputs.cache
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc6-WorkingHrDayReached\Day4Emp-Uc6-WorkingHrDayReached\obj\Debug\net5.0\Day4Emp-Uc6-WorkingHrDayReached.AssemblyInfo.cs
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc6-WorkingHrDayReached\Day4Emp-Uc6-WorkingHrDayReached\obj\Debug\net5.0\Day4Emp-Uc6-WorkingHrDayReached.csproj.CoreCompileInputs.cache
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc6-WorkingHrDayReached\Day4Emp-Uc6-WorkingHrDayReached\obj\Debug\net5.0\Day4Emp-Uc6-WorkingHrDayReached.dll
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc6-WorkingHrDayReached\Day4Emp-Uc6-WorkingHrDayReached\obj\Debug\net5.0\refint\Day4Emp-Uc6-WorkingHrDayReached.dll
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc6-WorkingHrDayReached\Day4Emp-Uc6-WorkingHrDayReached\obj\Debug\net5.0\Day4Emp-Uc6-WorkingHrDayReached.pdb
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc6-WorkingHrDayReached\Day4Emp-Uc6-WorkingHrDayReached\obj\Debug\net5.0\Day4Emp-Uc6-WorkingHrDayReached.genruntimeconfig.cache
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc6-WorkingHrDayReached\Day4Emp-Uc6-WorkingHrDayReached\obj\Debug\net5.0\ref\Day4Emp-Uc6-WorkingHrDayReached.dll

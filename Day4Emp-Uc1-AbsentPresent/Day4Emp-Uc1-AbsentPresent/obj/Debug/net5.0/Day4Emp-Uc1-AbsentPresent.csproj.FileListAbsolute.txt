@@ -1,0 +1,16 @@
+D:\.net\Day4Emp-Uc1-AbsentPresent\Day4Emp-Uc1-AbsentPresent\obj\Debug\net5.0\Day4Emp-Uc1-AbsentPresent.csproj.AssemblyReference.cache
+D:\.net\Day4Emp-Uc1-AbsentPresent\Day4Emp-Uc1-AbsentPresent\obj\Debug\net5.0\Day4Emp-Uc1-AbsentPresent.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Day4Emp-Uc1-AbsentPresent\Day4Emp-Uc1-AbsentPresent\obj\Debug\net5.0\Day4Emp-Uc1-AbsentPresent.AssemblyInfoInputs.cache
+D:\.net\Day4Emp-Uc1-AbsentPresent\Day4Emp-Uc1-AbsentPresent\obj\Debug\net5.0\Day4Emp-Uc1-AbsentPresent.AssemblyInfo.cs
+D:\.net\Day4Emp-Uc1-AbsentPresent\Day4Emp-Uc1-AbsentPresent\obj\Debug\net5.0\Day4Emp-Uc1-AbsentPresent.csproj.CoreCompileInputs.cache
+D:\.net\Day4Emp-Uc1-AbsentPresent\Day4Emp-Uc1-AbsentPresent\bin\Debug\net5.0\Day4Emp-Uc1-AbsentPresent.exe
+D:\.net\Day4Emp-Uc1-AbsentPresent\Day4Emp-Uc1-AbsentPresent\bin\Debug\net5.0\Day4Emp-Uc1-AbsentPresent.deps.json
+D:\.net\Day4Emp-Uc1-AbsentPresent\Day4Emp-Uc1-AbsentPresent\bin\Debug\net5.0\Day4Emp-Uc1-AbsentPresent.runtimeconfig.json
+D:\.net\Day4Emp-Uc1-AbsentPresent\Day4Emp-Uc1-AbsentPresent\bin\Debug\net5.0\Day4Emp-Uc1-AbsentPresent.runtimeconfig.dev.json
+D:\.net\Day4Emp-Uc1-AbsentPresent\Day4Emp-Uc1-AbsentPresent\bin\Debug\net5.0\Day4Emp-Uc1-AbsentPresent.dll
+D:\.net\Day4Emp-Uc1-AbsentPresent\Day4Emp-Uc1-AbsentPresent\bin\Debug\net5.0\Day4Emp-Uc1-AbsentPresent.pdb
+D:\.net\Day4Emp-Uc1-AbsentPresent\Day4Emp-Uc1-AbsentPresent\obj\Debug\net5.0\Day4Emp-Uc1-AbsentPresent.dll
+D:\.net\Day4Emp-Uc1-AbsentPresent\Day4Emp-Uc1-AbsentPresent\obj\Debug\net5.0\refint\Day4Emp-Uc1-AbsentPresent.dll
+D:\.net\Day4Emp-Uc1-AbsentPresent\Day4Emp-Uc1-AbsentPresent\obj\Debug\net5.0\Day4Emp-Uc1-AbsentPresent.pdb
+D:\.net\Day4Emp-Uc1-AbsentPresent\Day4Emp-Uc1-AbsentPresent\obj\Debug\net5.0\Day4Emp-Uc1-AbsentPresent.genruntimeconfig.cache
+D:\.net\Day4Emp-Uc1-AbsentPresent\Day4Emp-Uc1-AbsentPresent\obj\Debug\net5.0\ref\Day4Emp-Uc1-AbsentPresent.dll

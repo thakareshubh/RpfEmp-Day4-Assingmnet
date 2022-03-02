@@ -1,0 +1,16 @@
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc3-PartTimeFullTimeWage\Day4Emp-Uc3-PartTimeFullTimeWage\bin\Debug\net5.0\Day4Emp-Uc3-PartTimeFullTimeWage.exe
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc3-PartTimeFullTimeWage\Day4Emp-Uc3-PartTimeFullTimeWage\bin\Debug\net5.0\Day4Emp-Uc3-PartTimeFullTimeWage.deps.json
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc3-PartTimeFullTimeWage\Day4Emp-Uc3-PartTimeFullTimeWage\bin\Debug\net5.0\Day4Emp-Uc3-PartTimeFullTimeWage.runtimeconfig.json
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc3-PartTimeFullTimeWage\Day4Emp-Uc3-PartTimeFullTimeWage\bin\Debug\net5.0\Day4Emp-Uc3-PartTimeFullTimeWage.runtimeconfig.dev.json
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc3-PartTimeFullTimeWage\Day4Emp-Uc3-PartTimeFullTimeWage\bin\Debug\net5.0\Day4Emp-Uc3-PartTimeFullTimeWage.dll
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc3-PartTimeFullTimeWage\Day4Emp-Uc3-PartTimeFullTimeWage\bin\Debug\net5.0\Day4Emp-Uc3-PartTimeFullTimeWage.pdb
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc3-PartTimeFullTimeWage\Day4Emp-Uc3-PartTimeFullTimeWage\obj\Debug\net5.0\Day4Emp-Uc3-PartTimeFullTimeWage.csproj.AssemblyReference.cache
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc3-PartTimeFullTimeWage\Day4Emp-Uc3-PartTimeFullTimeWage\obj\Debug\net5.0\Day4Emp-Uc3-PartTimeFullTimeWage.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc3-PartTimeFullTimeWage\Day4Emp-Uc3-PartTimeFullTimeWage\obj\Debug\net5.0\Day4Emp-Uc3-PartTimeFullTimeWage.AssemblyInfoInputs.cache
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc3-PartTimeFullTimeWage\Day4Emp-Uc3-PartTimeFullTimeWage\obj\Debug\net5.0\Day4Emp-Uc3-PartTimeFullTimeWage.AssemblyInfo.cs
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc3-PartTimeFullTimeWage\Day4Emp-Uc3-PartTimeFullTimeWage\obj\Debug\net5.0\Day4Emp-Uc3-PartTimeFullTimeWage.csproj.CoreCompileInputs.cache
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc3-PartTimeFullTimeWage\Day4Emp-Uc3-PartTimeFullTimeWage\obj\Debug\net5.0\Day4Emp-Uc3-PartTimeFullTimeWage.dll
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc3-PartTimeFullTimeWage\Day4Emp-Uc3-PartTimeFullTimeWage\obj\Debug\net5.0\refint\Day4Emp-Uc3-PartTimeFullTimeWage.dll
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc3-PartTimeFullTimeWage\Day4Emp-Uc3-PartTimeFullTimeWage\obj\Debug\net5.0\Day4Emp-Uc3-PartTimeFullTimeWage.pdb
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc3-PartTimeFullTimeWage\Day4Emp-Uc3-PartTimeFullTimeWage\obj\Debug\net5.0\Day4Emp-Uc3-PartTimeFullTimeWage.genruntimeconfig.cache
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc3-PartTimeFullTimeWage\Day4Emp-Uc3-PartTimeFullTimeWage\obj\Debug\net5.0\ref\Day4Emp-Uc3-PartTimeFullTimeWage.dll

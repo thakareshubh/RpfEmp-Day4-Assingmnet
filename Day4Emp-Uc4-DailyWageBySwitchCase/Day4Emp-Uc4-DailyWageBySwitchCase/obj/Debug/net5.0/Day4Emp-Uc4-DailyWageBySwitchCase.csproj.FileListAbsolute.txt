@@ -1,0 +1,16 @@
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc4-DailyWageBySwitchCase\Day4Emp-Uc4-DailyWageBySwitchCase\bin\Debug\net5.0\Day4Emp-Uc4-DailyWageBySwitchCase.exe
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc4-DailyWageBySwitchCase\Day4Emp-Uc4-DailyWageBySwitchCase\bin\Debug\net5.0\Day4Emp-Uc4-DailyWageBySwitchCase.deps.json
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc4-DailyWageBySwitchCase\Day4Emp-Uc4-DailyWageBySwitchCase\bin\Debug\net5.0\Day4Emp-Uc4-DailyWageBySwitchCase.runtimeconfig.json
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc4-DailyWageBySwitchCase\Day4Emp-Uc4-DailyWageBySwitchCase\bin\Debug\net5.0\Day4Emp-Uc4-DailyWageBySwitchCase.runtimeconfig.dev.json
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc4-DailyWageBySwitchCase\Day4Emp-Uc4-DailyWageBySwitchCase\bin\Debug\net5.0\Day4Emp-Uc4-DailyWageBySwitchCase.dll
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc4-DailyWageBySwitchCase\Day4Emp-Uc4-DailyWageBySwitchCase\bin\Debug\net5.0\Day4Emp-Uc4-DailyWageBySwitchCase.pdb
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc4-DailyWageBySwitchCase\Day4Emp-Uc4-DailyWageBySwitchCase\obj\Debug\net5.0\Day4Emp-Uc4-DailyWageBySwitchCase.csproj.AssemblyReference.cache
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc4-DailyWageBySwitchCase\Day4Emp-Uc4-DailyWageBySwitchCase\obj\Debug\net5.0\Day4Emp-Uc4-DailyWageBySwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc4-DailyWageBySwitchCase\Day4Emp-Uc4-DailyWageBySwitchCase\obj\Debug\net5.0\Day4Emp-Uc4-DailyWageBySwitchCase.AssemblyInfoInputs.cache
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc4-DailyWageBySwitchCase\Day4Emp-Uc4-DailyWageBySwitchCase\obj\Debug\net5.0\Day4Emp-Uc4-DailyWageBySwitchCase.AssemblyInfo.cs
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc4-DailyWageBySwitchCase\Day4Emp-Uc4-DailyWageBySwitchCase\obj\Debug\net5.0\Day4Emp-Uc4-DailyWageBySwitchCase.csproj.CoreCompileInputs.cache
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc4-DailyWageBySwitchCase\Day4Emp-Uc4-DailyWageBySwitchCase\obj\Debug\net5.0\Day4Emp-Uc4-DailyWageBySwitchCase.dll
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc4-DailyWageBySwitchCase\Day4Emp-Uc4-DailyWageBySwitchCase\obj\Debug\net5.0\refint\Day4Emp-Uc4-DailyWageBySwitchCase.dll
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc4-DailyWageBySwitchCase\Day4Emp-Uc4-DailyWageBySwitchCase\obj\Debug\net5.0\Day4Emp-Uc4-DailyWageBySwitchCase.pdb
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc4-DailyWageBySwitchCase\Day4Emp-Uc4-DailyWageBySwitchCase\obj\Debug\net5.0\Day4Emp-Uc4-DailyWageBySwitchCase.genruntimeconfig.cache
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc4-DailyWageBySwitchCase\Day4Emp-Uc4-DailyWageBySwitchCase\obj\Debug\net5.0\ref\Day4Emp-Uc4-DailyWageBySwitchCase.dll

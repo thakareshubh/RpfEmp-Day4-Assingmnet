@@ -1,0 +1,16 @@
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc2-DailyEmpWage\Day4Emp-Uc2-DailyEmpWage\bin\Debug\net5.0\Day4Emp-Uc2-DailyEmpWage.exe
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc2-DailyEmpWage\Day4Emp-Uc2-DailyEmpWage\bin\Debug\net5.0\Day4Emp-Uc2-DailyEmpWage.deps.json
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc2-DailyEmpWage\Day4Emp-Uc2-DailyEmpWage\bin\Debug\net5.0\Day4Emp-Uc2-DailyEmpWage.runtimeconfig.json
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc2-DailyEmpWage\Day4Emp-Uc2-DailyEmpWage\bin\Debug\net5.0\Day4Emp-Uc2-DailyEmpWage.runtimeconfig.dev.json
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc2-DailyEmpWage\Day4Emp-Uc2-DailyEmpWage\bin\Debug\net5.0\Day4Emp-Uc2-DailyEmpWage.dll
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc2-DailyEmpWage\Day4Emp-Uc2-DailyEmpWage\bin\Debug\net5.0\Day4Emp-Uc2-DailyEmpWage.pdb
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc2-DailyEmpWage\Day4Emp-Uc2-DailyEmpWage\obj\Debug\net5.0\Day4Emp-Uc2-DailyEmpWage.csproj.AssemblyReference.cache
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc2-DailyEmpWage\Day4Emp-Uc2-DailyEmpWage\obj\Debug\net5.0\Day4Emp-Uc2-DailyEmpWage.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc2-DailyEmpWage\Day4Emp-Uc2-DailyEmpWage\obj\Debug\net5.0\Day4Emp-Uc2-DailyEmpWage.AssemblyInfoInputs.cache
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc2-DailyEmpWage\Day4Emp-Uc2-DailyEmpWage\obj\Debug\net5.0\Day4Emp-Uc2-DailyEmpWage.AssemblyInfo.cs
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc2-DailyEmpWage\Day4Emp-Uc2-DailyEmpWage\obj\Debug\net5.0\Day4Emp-Uc2-DailyEmpWage.csproj.CoreCompileInputs.cache
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc2-DailyEmpWage\Day4Emp-Uc2-DailyEmpWage\obj\Debug\net5.0\Day4Emp-Uc2-DailyEmpWage.dll
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc2-DailyEmpWage\Day4Emp-Uc2-DailyEmpWage\obj\Debug\net5.0\refint\Day4Emp-Uc2-DailyEmpWage.dll
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc2-DailyEmpWage\Day4Emp-Uc2-DailyEmpWage\obj\Debug\net5.0\Day4Emp-Uc2-DailyEmpWage.pdb
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc2-DailyEmpWage\Day4Emp-Uc2-DailyEmpWage\obj\Debug\net5.0\Day4Emp-Uc2-DailyEmpWage.genruntimeconfig.cache
+D:\.net\Rpf-120-Day4_Pdf1-Assingment\Day4Emp-Uc2-DailyEmpWage\Day4Emp-Uc2-DailyEmpWage\obj\Debug\net5.0\ref\Day4Emp-Uc2-DailyEmpWage.dll
